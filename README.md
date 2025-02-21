@@ -23,8 +23,8 @@ This project focuses on analyzing Brent oil prices using time series methods. Ke
 ## Setup Instructions
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/zereay74/Kaim-week-10.git
-cd brent-oil-analysis
+git clone https://github.com/HabibiGirum/week-10-project.git
+cd week-10-project
 ```
 
 ### 2. Create a Virtual Environment
